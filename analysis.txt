@@ -19,4 +19,34 @@ user
         image
         password
         username
+
+
+ Orders
+
+        order ID
+        product name
+        order status(Order Recieved,Order Processed,Order Shipped,Order Delivered)
+        offer
+        price
+        Total Item
+        Order Time
+        Delivery Time
+        Delivery Location
+        user
+
+order details
+
+        order
+        product
+        quantity
+        price
+        Total
+        
+
+
+
+
+
+
+)       
         
